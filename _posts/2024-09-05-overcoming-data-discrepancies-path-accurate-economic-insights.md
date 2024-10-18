@@ -1,7 +1,7 @@
 ---
 title: 'Overcoming Data Discrepancies: A Path to Accurate Economic Insights for Bangladesh'
 date: 2024-09-05
-permalink: /posts/2024/09/05/overcoming-data-discrepancies-path-accurate-economic-insights/
+permalink: /posts/2024/09/overcoming-data-discrepancies-path-accurate-economic-insights/
 tags:
   - Bangladesh
   - poverty-dynamics
