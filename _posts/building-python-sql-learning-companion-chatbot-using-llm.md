@@ -5,7 +5,7 @@ permalink: /posts/2023/12/28/building-python-sql-learning-companion-chatbot-usin
 tags:
   - LLM
   - CodeLlama2-7B
-  - Vector DB
+  - VectorDB
   - Qdrant
   - SQL
   - Python

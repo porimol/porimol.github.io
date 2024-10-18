@@ -3,8 +3,8 @@ title: 'How do you process iterators parallel?'
 date: 2024-10-19
 permalink: /posts/2023/09/24/how-do-you-process-iterators-parallel/
 tags:
-  - Parallel Iterators
-  - Python
+  - parallel-iterators
+  - python
 ---
 
 Certainly, let's categorize these four approaches as Worst, Good, Better, and Best and dive into learning them together.
