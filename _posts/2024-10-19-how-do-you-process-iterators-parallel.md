@@ -1,7 +1,7 @@
 ---
 title: 'How do you process iterators parallel?'
 date: 2024-10-19
-permalink: /posts/2023/09/24/how-do-you-process-iterators-parallel/
+permalink: /posts/2023/09/how-do-you-process-iterators-parallel/
 tags:
   - parallel-iterators
   - python

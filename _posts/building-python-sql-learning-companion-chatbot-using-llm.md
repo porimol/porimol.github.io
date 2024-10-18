@@ -1,7 +1,7 @@
 ---
 title: 'Building an Interactive Python and SQL Learning Companion chatbot using CodeLlama2-7B LLM'
 date: 2023-12-28
-permalink: /posts/2023/12/28/building-python-sql-learning-companion-chatbot-using-llm/
+permalink: /posts/2023/12/building-python-sql-learning-companion-chatbot-using-llm/
 tags:
   - LLM
   - CodeLlama2-7B
